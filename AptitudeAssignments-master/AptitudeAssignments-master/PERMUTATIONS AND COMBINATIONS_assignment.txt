@@ -1,0 +1,140 @@
+1. A round table conference is to be held among 25 delegates from 25 countries. In how many ways can they be seated if two particular delegates are always to sit together?
+A. 23!
+B. 2! ×23!
+C. 3! ×23!
+D. None of these
+
+Answer: Option A. 23!
+
+
+2. In how many ways can 5 boys and 4 girls be seated in a row, so that they alternate?
+A. 5!
+B. 5!×2!
+C. 4!×5!
+D. None of these
+
+Answer: Option B. 5! * 2!
+
+3. In how many ways can the letters of the word 'LEADER' be arranged?
+
+A.
+72
+B.
+144
+C.
+360
+D.
+720
+
+Answer: Option D. 720
+
+
+
+
+4. A box contains 2 white balls, 3 black balls and 4 red balls. In how many ways can 3 balls be drawn from the box, if at least one black ball is to be included in the draw?
+
+A.
+32
+B.
+48
+C.
+64
+D.
+96
+
+Answer: Option B. 48
+ 
+
+5.  How many numbers greater than a million can be formed with the digits 2,3,0,4,3,3,3 ?
+300
+360
+440
+620
+
+Answer: Option D. 720
+
+
+
+6. A gentleman has got 6 sorts of note papers, 7 different ink-stands and 4 different pens. In how many ways can he begin to write a letter?
+168
+176
+186
+196
+
+ANSWER: 168
+
+7. How many different words can be formed from the alphabets of the word SCISSORS?
+     A. 1440        
+     B. 1680               
+     C. 1800            
+     D. 2100
+
+ANSWER: 1680
+
+8.  A team of 8 students goes on an excursion, in two cars, of which one can seat 5 and the other only 4. In how many ways can they travel?
+A) 9        
+B)26              
+C)126             
+D) 3920
+
+ANSWER=126
+
+9.  How many ways can 10 letters be posted in 5 post boxes, if each of the post boxes can take more than 10 letters?
+A) 510                  
+B) 105           
+C) 10P5 
+D) 10C5
+Answer: Option A. 510
+
+10. In how many ways can 15 people be seated around two round tables with seating capacities of 7 and 8 people?
+A) 15!/(8!)            
+B) 7!*8!            
+C) (15C8)*6!*7!            
+D)2*(15C7)*6!*7!
+
+ANSWEER: C) (15C8)*6!*7! 
+
+
+11. In how many ways can the letters of the word EDUCATION be rearranged so that the relative position of the vowels and consonants remain the same as in the word EDUCATION?
+A) 9!/4    
+B) 9!/(4!*5!)
+C) 4!*5!
+D) None of these
+
+ANSWER: C) 4!*5!
+
+
+12.  There are 2 brothers among a group of 20 persons. In how many ways can the group be arranged around a circle so that there is exactly one person between the two brothers?
+A) 2 * 19!             
+B)18! * 18                 
+C) 19! * 18               
+D)2 * 18!
+
+Answer: Option D. 2 * 18!
+
+13.A selection is to be made for one post of principal and two posts of vice-principal amongst the six candidates called for the interview only two are eligible for the post of principal while they all are eligible for the post of vice-principal. The number of possible combinations of selectees is:
+A. 4
+B. 12
+C. 18
+D. 20
+
+For the selection of one principal and two vice-principals, the number of possible combinations can be calculated as 2C1 * 4C2 = 2 * 6 = 12.
+Answer: Option B. 12
+
+14. In how many different ways can five friends sit for a photograph of five chairs in a row?
+A. 120 ways       
+B. 24 ways        
+ C. 240 ways           
+ D. 720 ways
+
+Answer: Option A. 120 ways
+
+15. In a room there are 12 bulbs of the same wattage, each having a separate switch. The number of ways to light the room with different amounts of illumination is
+A.122-1
+B. 212
+C.212-1
+D. none of these
+
+ANSWER:D. none of these
+
+

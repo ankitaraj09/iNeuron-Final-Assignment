@@ -1,0 +1,118 @@
+1: The equations of the lines x=2 & y=4 meet at the point .............
+
+Solution: (2,4)
+----------------------------------------------------------------------------------------------------------
+
+2: Equations 2X+3Y=9 & 7X+9Y=-6 have how many solutions?
+
+Using elimination method:
+
+Multiplying the first equation by 3, and the second equation by -1.5, we get:
+
+6X + 9Y = 27
+-10.5X - 13.5Y = 9
+
+Adding the two equations together, we get:
+
+-4.5X - 4.5Y = 36
+
+Dividing both sides by -4.5, we get:
+
+X + Y = -8
+
+Now we can use this result to solve for one variable in terms of the other, and then substitute it into 
+one of the original equations to solve for the other variable. For example, if we solve for Y in terms of X, we get:
+
+Y = -X - 8
+
+Substituting this expression for Y into the first equation, we get:
+
+2X + 3(-X - 8) = 9
+
+Simplifying and solving for X, we get:
+
+-X - 21 = 0
+X = -21
+
+Substituting this value of X into the equation Y = -X - 8, we get:
+
+Y = -(-21) - 8 = 13
+
+So the solution to the system of equations is (X,Y) = (-21, 13).
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3. Equation 7x+9y=-5 has how many keys?
+
+
+Rearranging the equation, we get:
+
+7x + 9y = -5
+7x = -9y - 5
+x = (-9/7)y - 5/7
+
+Now, if we pick any value for y, we can plug it into this equation to get a corresponding value for x. For example, if we set y = 0, we get:
+
+x = (-9/7)(0) - 5/7
+x = -5/7
+
+So one solution to the equation is (x,y) = (-5/7, 0).
+
+Similarly, if we set y = 1, we get:
+
+x = (-9/7)(1) - 5/7
+x = -14/7 = -2
+
+So another solution to the equation is (x,y) = (-2, 1).
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+4. Equation ax^2+bx+c=0 will be ............. for a=b=c=0 .
+
+
+The equation ax^2 + bx + c = 0 is a quadratic equation in the variable x.
+
+If a = b = c = 0, then we have:
+
+0x^2 + 0x + 0 = 0
+
+This equation simplifies to:
+
+0 = 0
+
+This is not a quadratic equation, since the highest power of x is 0, not 2. It is a trivial equation, and it is true for all values of x.
+
+In summary, the equation ax^2 + bx + c = 0 with a = b = c = 0 is not a quadratic equation, and it is a trivial equation that is true for all values of x.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+5. Income of A & B is in ratio 2:3. For example, if B’s income is Rs 3000, find out the ratio of their expenditures if their savings are Rs 500 & Rs 700,
+respectively.
+
+Let A's income be 2x and B's income be 3x. If B's income is Rs 3000, then we have:
+
+3x = 3000
+
+Solving for x, we get:
+
+x = 1000
+
+So A's income is 2x = 2000.
+
+Now, we can find the ratio of their expenditures. Let A's expenditure be E1, and B's expenditure be E2. 
+We know that their savings are Rs 500 and Rs 700, respectively. So we have:
+
+E1 = (2/5)(2000) - 500 = 300
+E2 = (2/5)(3000) - 700 = 400
+
+Therefore, the ratio of their expenditures is:
+
+E1 : E2 = 300 : 400 = 3 : 4
+
+Note that we used the fact that their incomes are in the ratio 2 : 3 to find the fraction of their incomes that they spend, 
+which is (2/5) for both A and B (since they save 500 and 700, respectively). We then multiplied these fractions by their incomes
+ to find their respective expenditures.
